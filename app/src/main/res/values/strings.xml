@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YandexAdsTest</string>
+    <string name="_320_50">Баннер 320х50</string>
+    <string name="show_ad">Показать рекламу</string>
+    <string name="show_ad_error">Реклама еще не загрузилась или произошла ошибка при загрузке. Повторите попытку чуть позже</string>
+    <string name="reward_ad">Реклама с вознаграждением</string>
+</resources>
